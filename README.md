@@ -51,4 +51,4 @@ npm run dev
 
 ## 🎥 Demo Video
 👉link:
-https://drive.google.com/file/d/1OAan_CxS0lrYLj4hbjNzQWa9qwH-0-o8/view?usp=sharing
+https://drive.google.com/file/d/18xhjcg6InwGaPhcse-Bbv-kU9zNUzvcJ/view?usp=sharing
